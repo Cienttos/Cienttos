@@ -12,6 +12,23 @@
 
 ---
 
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **software developer** from **Mar del Plata, Argentina** 🇦🇷.  
+I enjoy working on both **frontend and backend development**, but I specialize in **frontend**.  
+I love **UI/UX design** and always strive to **learn new technologies** and **improve my existing skills**.
+
+### 💡 What defines me?
+- ✅ **Committed** to every project I take on.
+- 🔍 Always seeking to **improve** or **optimize** existing work.
+- 🤝 **Team player** with strong collaboration skills.
+- 🎯 **Perfectionist** with an eye for details (working on time prioritization 😅).
+
+---
+
 ## 🚀 Languages, Frameworks & Tools
 
 <div align="center">
