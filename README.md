@@ -5,6 +5,8 @@
   </a>
 </p>
 ---
+
+### 🛠️ Tech Stack
 <!-- GIF Centrado y con Ancho Completo -->
 <p align="center">
   <img src="gif.gif" width="100%">
