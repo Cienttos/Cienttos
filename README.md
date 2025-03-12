@@ -5,11 +5,12 @@
   </a>
 </p>
 
----
+<!-- GIF Centrado y con Ancho Completo -->
+<p align="center">
+  <img src="gif.gif" width="100%">
+</p>
 
-<td align="center" width="33%">
-      <img src="gif.gif" width="300">
-    </td>
+---
 
 ## 🚀 Lenguajes, Frameworks y Herramientas
 
@@ -20,11 +21,6 @@
     <h2>🖥️ Lenguajes</h2>
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-  </div>
-
-  <!-- GIF Animado -->
-  <div>
-    <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="250">
   </div>
 
   <!-- Frameworks -->
