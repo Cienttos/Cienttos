@@ -1,4 +1,33 @@
-<h1 align="center">Hi there! I'm Facundo Cientofante 👋</h1>
+<h1 align="center">
+  <a href="#">Hi there! I'm <span id="typed"></span> 👋</a>
+</h1>
+
+<script>
+  const words = ["Facundo Cientofante", "a Full-Stack Developer", "passionate about UI/UX"];
+  let i = 0;
+  let j = 0;
+  let currentWord = "";
+  let isDeleting = false;
+  
+  function type() {
+    currentWord = words[i].substring(0, j);
+    document.getElementById("typed").textContent = currentWord;
+    
+    if (!isDeleting && j < words[i].length) {
+      j++;
+      setTimeout(type, 100);
+    } else if (isDeleting && j > 0) {
+      j--;
+      setTimeout(type, 50);
+    } else {
+      isDeleting = !isDeleting;
+      if (!isDeleting) i = (i + 1) % words.length;
+      setTimeout(type, 1000);
+    }
+  }
+  
+  document.addEventListener("DOMContentLoaded", type);
+</script>
 
 ```js
 const facundo = {
@@ -14,48 +43,38 @@ const facundo = {
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
+### 💻 Languages & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-8B5CF6?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-8B5CF6?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Astro-8B5CF6?style=flat-square&logo=astro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-8B5CF6?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### 🛠 Frameworks & Libraries
+### 🎨 UI/UX & Design Tools
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### 🎨 Frontend & Styling
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🖌️ UI/UX & Design Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SolidEdge-0078D7?style=for-the-badge&logo=siemens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-8B5CF6?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-8B5CF6?style=flat-square&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SolidEdge-8B5CF6?style=flat-square&logo=siemens&logoColor=white"/>
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FacundoCientofante&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FacundoCientofante&show_icons=true&theme=tokyonight"/>
 </p>
 
 ## 📌 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoCientofante&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoCientofante&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 🌎 Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://twitter.com/tu-usuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin"/></a>
+  <a href="https://twitter.com/tu-usuario"><img src="https://img.shields.io/badge/Twitter-8B5CF6?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
