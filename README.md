@@ -7,6 +7,10 @@
 
 ---
 
+<td align="center" width="33%">
+      <img src="gif.gif" width="300">
+    </td>
+
 ## 🚀 Lenguajes, Frameworks y Herramientas
 
 <div align="center">
