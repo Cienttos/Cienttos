@@ -1,16 +1,15 @@
-<!-- Título Animado -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8A2BE2&size=38&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub!+I'm+Cienttos.">
   </a>
 </p>
+
 ---
 
-### 🛠️ Tech Stack
-<!-- GIF Centrado y con Ancho Completo -->
 <p align="center">
   <img src="gif.gif" width="100%">
 </p>
+
 
 ---
 
@@ -32,7 +31,6 @@ I love **UI/UX design** and always strive to **learn new technologies** and **im
 
 <div align="center">
 
-  <!-- Languages -->
   <div>
     <h2>🖥️ Languages</h2>
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -44,7 +42,6 @@ I love **UI/UX design** and always strive to **learn new technologies** and **im
     <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </div>
 
-  <!-- Frameworks -->
   <div>
     <h2>📦 Frameworks</h2>
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -54,7 +51,6 @@ I love **UI/UX design** and always strive to **learn new technologies** and **im
     <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </div>
 
-  <!-- Tools -->
   <div>
     <h2>🛠️ Tools</h2>
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
