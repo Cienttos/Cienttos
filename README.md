@@ -12,9 +12,6 @@
 
 ---
 
-
----
-
 ## 👨‍💻 About Me
 
 I'm a passionate **software developer** from **Mar del Plata, Argentina** 🇦🇷.  
@@ -63,5 +60,22 @@ I love **UI/UX design** and always strive to **learn new technologies** and **im
     <img src="https://img.shields.io/badge/SolidEdge-%23007ACC.svg?style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white">
   </div>
+
+  ## 🚀 Git Activeness  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+  &nbsp;<i><b>Git Activeness</b></i>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FacundoCien&show_icons=true&locale=en&layout=compact&theme=radical" alt="FacundoCien's top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FacundoCien&show_icons=true&locale=en&theme=radical" alt="FacundoCien's GitHub stats" width="410" />
+</p>
+
+---
 
 </div>
