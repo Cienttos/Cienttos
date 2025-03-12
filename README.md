@@ -37,6 +37,13 @@ const facundo = {
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+### 🖌️ UI/UX & Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SolidEdge-0078D7?style=for-the-badge&logo=siemens&logoColor=white"/>
+</p>
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FacundoCientofante&show_icons=true&theme=radical"/>
