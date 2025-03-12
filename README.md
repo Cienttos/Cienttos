@@ -28,7 +28,7 @@ I love **UI/UX design** and always strive to **learn new technologies** and **im
 
 ---
 
-<h2>🛠️ Tech Stack <img src="path/to/your/animated-icon.gif" width="30" /></h2>
+## 🛠️ Tech Stack
 
 <div align="center">
 
