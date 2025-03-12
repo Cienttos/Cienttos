@@ -1,10 +1,10 @@
-<h1 align="center">
-  <b>Hello, I'm [Your Name] </b>
+<h1 align="center" style="font-size: 2.5rem; font-weight: bold;">
+  <b>Hello, I'm <span style="color: #ffcc00; text-shadow: 0 0 10px #ffcc00;">Cienttos</span></b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-  <img src="img" width="600" alt="Banner Image">
+  <img src="gif.gif" width="600" alt="Banner GIF">
 </p>
 
 <br>
@@ -37,16 +37,6 @@
   ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
   ![SolidEdge](https://img.shields.io/badge/SolidEdge-%23007ACC.svg?style=for-the-badge&logoColor=white)
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Stats**
-
-<div align="center">
-  <a href="https://github.com/[YourUsername]/">
-    <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  </a>
-</div>
 
 <br>
 
