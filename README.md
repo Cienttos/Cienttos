@@ -1,7 +1,7 @@
 <!-- Título Animado -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=8A2BE2&size=40&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub!+I'm+Cienttos.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8A2BE2&size=40&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub!+I'm+Cienttos.">
   </a>
 </p>
 
@@ -61,19 +61,18 @@ I love **UI/UX design** and always strive to **learn new technologies** and **im
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white">
   </div>
 
-  ## 🚀 Git Activeness  
+---
+
+## 🚀 Git Activeness  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-  &nbsp;<i><b>Git Activeness</b></i>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
+  <i><b>Git Activeness</b></i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FacundoCien&show_icons=true&locale=en&layout=compact&theme=radical" alt="FacundoCien's top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FacundoCien&show_icons=true&locale=en&theme=radical" alt="FacundoCien's GitHub stats" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FacundoCien&show_icons=true&locale=en&layout=compact&theme=radical" alt="FacundoCien's top languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FacundoCien&show_icons=true&locale=en&theme=radical" alt="FacundoCien's GitHub stats" width="48%" />
 </p>
 
 ---
