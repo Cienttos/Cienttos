@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8A2BE2&size=38&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub!+I'm+Cienttos.">
   </a>
 </p>
-
+---
 <!-- GIF Centrado y con Ancho Completo -->
 <p align="center">
   <img src="gif.gif" width="100%">
