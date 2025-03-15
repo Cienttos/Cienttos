@@ -65,8 +65,8 @@ I love **UI/UX design** and always strive to **learn new technologies** and **im
 ## 🚀 Git Activeness  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FacundoCien&show_icons=true&locale=en&layout=compact&theme=radical" alt="FacundoCien's top languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=FacundoCien&show_icons=true&locale=en&theme=radical" alt="FacundoCien's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cienttos&show_icons=true&locale=en&layout=compact&theme=radical" alt="Cienttos's top languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cienttos&show_icons=true&locale=en&theme=radical" alt="Cienttos's GitHub stats" width="48%" />
 </p>
 
 ---
